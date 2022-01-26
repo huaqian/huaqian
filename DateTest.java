@@ -9,6 +9,8 @@ import java.util.Date;
 
 public class DateTest {
 
+        // Just another change from I       
+        // This is a a testing class -- modified from I
 	public static void main(String[] args) throws Exception {
 		DateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
 		Date date = sdf.parse("02-10-2001");
